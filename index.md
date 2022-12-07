@@ -3,6 +3,6 @@ BATMAN: Alexander Peng
 ---
 
 ---
-PSYCHO: Alexander Peng
+PSYCHO: Me
 ---
 
