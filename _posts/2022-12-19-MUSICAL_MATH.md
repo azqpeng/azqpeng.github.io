@@ -1,10 +1,4 @@
-title: MUSICAL
-\author{Alexander Peng}
-\date{December 2022}
-
-\begin{document}
-
-\maketitle
+title: MUSICAL date: 2022-12-05
 
 In this report, we'll engage in two separate studies on the mathematics of music. One attempts to formally compute how certain musical instruments work, while the other takes a broader conceptual swipe at music theory. I hope you'll enjoy them both.
 
