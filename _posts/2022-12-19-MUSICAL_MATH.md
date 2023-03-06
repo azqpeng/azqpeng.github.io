@@ -1,11 +1,4 @@
-\documentclass{article}
-\usepackage[utf8]{inputenc}
-\usepackage{amsmath}
-\usepackage{biblatex}
-\usepackage{graphicx}
-\graphicspath{ {./pluckers.PNG/} }
-
-\title{Mathematical music}
+title: MUSICAL
 \author{Alexander Peng}
 \date{December 2022}
 
@@ -138,7 +131,3 @@ The ultimate cause of this is that once again, notes are defined by pitch and pi
     “Intervals.” AudioLabs, International Audio Laboratories Erlangen, https://www.audiolabs-erlangen.de/resources/MIR/FMP/C5/C5S1_Intervals.html.\\
     \\
     minutephysics. “Why It's Impossible to Tune a Piano.” YouTube, YouTube, 17 Sept. 2015, https://www.youtube.com/watch?v=1Hqm0dYKUx4. 
-
-
-
-\end{document}
